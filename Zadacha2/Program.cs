@@ -5,6 +5,8 @@
 // a = 2 b = 10 -> max = 10
 // a = -9 b = -3 -> max = -3
 
+using System;
+
 int max = 0;
 int min = 0;
 
